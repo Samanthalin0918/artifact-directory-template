@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+GenAI for Good: The Misinformation and Veracity Engine
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Chenly Insights helps users combat misinformation by analyzing news articles with generative and predictive AI. Users upload an article, which is scored on factuality factors and presented with visualizations. The scores and metadata are stored in a constantly updated vector database for generative AI reference. Users can also ask the AI about article scores. We optimized prompts for the highest accuracy.
